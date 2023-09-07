@@ -1,0 +1,45 @@
+[05-Apr-2023 08:55:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 2
+[05-Apr-2023 08:55:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 2
+[05-Apr-2023 08:55:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 2
+[05-Apr-2023 08:56:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 2
+[05-Apr-2023 08:56:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/clearmov/portal.clearmovesaligners.com/efolderapp/index.php:1) in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 15
+[05-Apr-2023 08:56:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 2
+[05-Apr-2023 16:27:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/clearmov/portal.clearmovesaligners.com/efolderapp/index.php:3) in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/login_query.php on line 17
+[07-Apr-2023 07:31:34 UTC] PHP Parse error:  syntax error, unexpected 'faculty_profile' (T_STRING), expecting ';' or ',' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:34:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php:30) in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:38:53 UTC] PHP Parse error:  syntax error, unexpected 'faculty_profile' (T_STRING), expecting ';' or ',' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:40:51 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:40:51 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:40:51 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:40:51 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:40:51 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:41:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:41:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:41:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:41:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:41:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:43:39 UTC] PHP Parse error:  syntax error, unexpected 'faculty_profile' (T_STRING), expecting ';' or ',' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:45:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:48:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 07:49:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 07:50:26 UTC] PHP Parse error:  syntax error, unexpected 'File' (T_STRING), expecting ';' or ',' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:52:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 07:54:44 UTC] PHP Parse error:  syntax error, unexpected 'faculty_profile' (T_STRING), expecting ';' or ',' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 07:55:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 07:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 31
+[07-Apr-2023 08:02:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 33
+[07-Apr-2023 08:06:57 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:48:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:48:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:49:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:50:39 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:51:32 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:52:12 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 08:56:14 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/save_file.php on line 32
+[07-Apr-2023 10:41:07 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException: This PDF document probably uses a compression technique which is not supported by the free parser shipped with FPDI. (See https://www.setasign.com/fpdi-pdf-parser for more details) in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/fpdi/src/PdfParser/CrossReference/CrossReference.php:257
+Stack trace:
+#0 /home2/clearmov/portal.clearmovesaligners.com/efolderapp/fpdi/src/PdfParser/CrossReference/CrossReference.php(209): setasign\Fpdi\PdfParser\CrossReference\CrossReference->initReaderInstance(Object(setasign\Fpdi\PdfParser\Type\PdfIndirectObject))
+#1 /home2/clearmov/portal.clearmovesaligners.com/efolderapp/fpdi/src/PdfParser/CrossReference/CrossReference.php(67): setasign\Fpdi\PdfParser\CrossReference\CrossReference->readXref(755916)
+#2 /home2/clearmov/portal.clearmovesaligners.com/efolderapp/fpdi/src/PdfParser/PdfParser.php(157): setasign\Fpdi\PdfParser\CrossReference\CrossReference->__construct(Object(setasign\Fpdi\PdfParser\PdfP in /home2/clearmov/portal.clearmovesaligners.com/efolderapp/fpdi/src/PdfParser/CrossReference/CrossReference.php on line 257
